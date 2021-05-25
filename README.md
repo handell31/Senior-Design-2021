@@ -50,5 +50,5 @@ Player\_Prediction.ipynb
 PlayoffPrediction.ipynb
 
 1. Upload and run in Jupyter Notebook
-2.Download the csv &quot;1983-21LeagueStandingsAllFeaturesPerGame.csv&quot;
+2. Download the csv &quot;1983-21LeagueStandingsAllFeaturesPerGame.csv&quot;
 3. Utilize drop-down menu to select conference, year and features to view the graphs
